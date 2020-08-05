@@ -1,0 +1,13 @@
+﻿  olcEngine3D.cpp
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(158,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(158,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(157,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(157,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(156,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcEngine3D.cpp(156,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  olcEngine3D.vcxproj -> C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\Debug\olcEngine3D.exe
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(286): warning C6029: Possible buffer overrun in call to 'fread':  use of unchecked value 'this'.
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(287): warning C6029: Possible buffer overrun in call to 'fread':  use of unchecked value 'this'.
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(978): warning C26495: Variable 'olcConsoleGameEngine::olcAudioSample::wavHeader' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(993): warning C6054: String 'dump' might not be zero-terminated.
+C:\Users\bansh\Sites\olcEngine3D\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(983): warning C26495: Variable 'olcConsoleGameEngine::olcAudioSample::wavHeader' is uninitialized. Always initialize a member variable (type.6).
